@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Blog" (It better works in online html compiler)</title>
+        <style>
+            #textone{
+                color: rgb(122, 20, 67);
+            }
+            body{
+                background-color:rgb(255, 199, 225);
+                font-family: cursive;
+            }
+            
+            #blogtitle{
+                color: rgb(122, 20, 67);
+                font-family: fantasy;
+            }
+            #postone{
+                background-color: rgb(191, 98, 180);
+                 text-align: center;
+            }
+            #postonett{
+                 background-color: rgb(191, 98, 180);
+            }
+            #postonedate{
+                 background-color: rgb(191, 98, 180);
+            }
+            
+            #posttwo{
+                background-color: rgb(122, 153, 158);
+                 text-align: center;
+            }
+            #posttwott{
+                 background-color: rgb(122, 153, 158);
+            }
+            #posttwodate{
+                 background-color: rgb(122, 153, 158);
+            }
+           #music{
+               color:rgb(12, 41, 99);
+               font-family: "monospace"
+
+           }
+           #age{
+               color:rgb(179, 14, 179);
+               font-family: "sans-serif";
+           }
+           #games{
+               color:rgb(99, 67, 8);
+               font-family:"serif";
+           }
+           #books{
+               color:rgb(45, 63, 87);
+               font-family:"monospace";
+           }
+           #other{
+               color:rgb(186, 71, 96);
+               font-family:"fantasy";
+           }
+                
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id="blogtitle">Kate's blog</h1>
+         <img src="https://external-media.spacehey.net/media/spGTIrbxLQ3cW_aSqZJw-9k_S9B_6i4EOVHt8taMgeeE=/https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg2ZTA0NzcyZTQwNTMyNGFiODNhODQyYjZiZDhlNmQ4NWI5ZTc1MSZjdD1z/OQK0UpszXwn088i7LY/200.gif"width="400">
+         
+         <br>
+        <img src="https://cdn.spacehey.net/profilepics/2633494_6d248b2cfb9c797c4399c8afa71738d7.jpg?token=i8hvo6ezn8aQ_tqZq2ugP5Fir0sMoOMYyDRGXt0uDyY&expires=1716890369" width="200">
+       
+        <br>
+     
+        <p id="textone"> <em>Hi! My name is Kate and this is my blog, there is some information about me below:3</em></p>
+                 
+                    <img src="https://external-media.spacehey.net/media/spGTIrbxLQ3cW_aSqZJw-9k_S9B_6i4EOVHt8taMgeeE=/https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg2ZTA0NzcyZTQwNTMyNGFiODNhODQyYjZiZDhlNmQ4NWI5ZTc1MSZjdD1z/OQK0UpszXwn088i7LY/200.gif"width="400">
+                    <br>
+                    <br>
+                    <br>
+                   
+        <p id="age"><strong>Age:</strong> 15</p>
+        
+        <p id="music"><strong>Music:</strong> My fav bands are Xasthur,Emperor, Lifelover, Acid Bath, Fulci and KMFDM!</p>
+        <img src="https://external-media.spacehey.net/media/szrYU1Udg6W6s_4hLbRhPkeyS4Qsq53Qcf3YRf_ODWJA=/https://adriansblinkiecollection.neocities.org/stamps/d42.gif">
+        <br>
+        <img src="https://gifcity.carrd.co/assets/images/gallery18/e87e8a26.gif?v=d55ea43d" width="250">
+        <br>
+        <img src="https://gifcity.carrd.co/assets/images/gallery132/cf0b0dff.gif?v=d55ea43d" width="250">
+
+
+        <p id="games"><strong>Games:</strong> My favourite games are Postal, Cry of Fear, Silent Hill and Saya no Uta  </p>
+        <img src="https://external-media.spacehey.net/media/sisYnBWMqtP94iuTg1BymMkC3kx6XAQEvvP8gvEGsUD4=/https://adriansblinkiecollection.neocities.org/h14.gif" width="200">
+        <p id="books"><strong>Books:</strong> Mostly I like books by Stephen King, Franz Kafka and Harlan Ellison</p>
+        <p id="other"><strong>Other:</strong> I just LOVE cats!!! </p>
+        <img src="https://external-media.spacehey.net/media/sLgveVDAKv9EUcDceMplbKQw8edc0s-CrsT42jZmzv9o=/https://blinki.es/blinkies/animal/beware-of-cat-attack.gif" width="280"><br>
+        <img src="https://external-media.spacehey.net/media/sH_97qDleyqfKtEjHbqd_8KJ-PzpOZvEBdtHmIfreb-k=/https://y2k.neocities.org/stamps2/tumblr_pbffcs5mpm1xz2nuuo1_250.gif" width="130">
+        <img src="https://external-media.spacehey.net/media/sD66iXVPD-AZ8Uhz9XZKcCaw9tgXYxK1Myw-EKJlzVxQ=/https://kopawz.neocities.org/stamphoard/stamps5/ceilingcat.gif" width="148">
+        <br>
+        <img src="https://gifcity.carrd.co/assets/images/gallery158/9dec4b99.gif?v=d55ea43d" width="300">
+        <br>
+            <br>
+        <br>
+
+
+<img src="https://gifcity.carrd.co/assets/images/gallery39/d8be567f.gif?v=d55ea43d">
+         <br>
+                  <br>
+                           <br>
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#postone">First post!</a></li>
+            <li><a href="#posttwott">Second post!</a></li>
+        </ul>
+         <img src="https://watermelon.crd.co/assets/images/gallery18/ee1d0068.gif?v=9a76615e">
+        <br>
+        <br>
+        <br>
+        
+        <h2 id="postonett">First post</h2>
+        <h6 id="postonedate">Posted on 07:03:21 pm on 3rd march 2011</h6>
+        
+        <p id="postone">Today I went with my best friend to shopping mall, there we bought a lot of cute stuff and cool clothes!! here are some of them</p>
+        <br>
+        <img src="https://i.pinimg.com/564x/b3/34/4e/b3344eb7c0c15d7aafaab494d7aa73b8.jpg" width="200">
+        <img src="https://i.pinimg.com/474x/1f/41/42/1f414277eb9f2ae8cc5ae3d75b85bde8.jpg" width="180">
+        <img src="https://i.pinimg.com/236x/dc/b6/a6/dcb6a60e7372a6e182df897fb096909b.jpg" width="162.5">
+        <br>
+        <img src="">
+      <img src="https://adriansblinkiecollection.neocities.org/g18.gif" width="250"> <br>
+      <img src="https://adriansblinkiecollection.neocities.org/stamps/k12.png" width="140">
+      
+      
+      <h2 id="posttwott">Second post</h2>
+       <h6 id="posttwodate">Posted on 10:12:39 am on 7th march 2011</h6>
+        <p id="posttwo">Today is such a rainy day! I planned to go to park for a walk, but I am going to stay at home playing my fav videogames and drinking tea with my cat.</p>
+       <img src="https://i.redd.it/v7ojsxw8j1l01.jpg" width="400">
+      <br>
+        <img src="https://media.tenor.com/aGdRwLhF1QsAAAAM/cuppa-steaming.gif">
+         <img src="https://adriansblinkiecollection.neocities.org/stamps/b5.gif"width="157">
+    </body>
+</html>
+
